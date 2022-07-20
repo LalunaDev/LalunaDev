@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LalunaDev
 - 👀 I’m interested in game development and AI
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning js
 - 📫 How to reach me: dandharapereira16@gmail.com
 
 <!---

@@ -1,8 +1,7 @@
-  ## Olá, eu sou a Dhara! 🌙
+  ## Olá! Eu sou a Dhara! 🌙
   
-  - 19 anos ✨
-  - Estudando engenharia de software 💻
-  - Jogos e cultura nerd 🕹️
+  - 20 anos ✨
+  - Estudando Análise e Desenvolvimento de Sistemas ☕💽💿
   
   <a href="https://github.com/LalunaDev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LalunaDev&layout=compact&langs_count=7&theme=synthwave"/>
